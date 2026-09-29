@@ -1,0 +1,6 @@
+{
+  "name": "AUREUS | Luxury Chauffeur, Yacht & Private Experiences Concierge",
+  "description": "Premier luxury transportation and concierge platform offering executive chauffeur services, bespoke black SUV fleet rentals, private yacht charters, and curated VIP excursions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
